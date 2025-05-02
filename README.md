@@ -62,12 +62,12 @@
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Cornelius McCastle</h1>
     <p>Professional Car Salesman – Helping You Find the Right Ride</p>
   </header>
 
   <nav>
-    <a href="#about">About Me</a>
+    <a href="#about">I recently moved to California in March of 2024, seeking new beginnings in life. Stumbling upon Alexander Hyundai, I realized i had a gift to change the car business. click the links below and I'll show you how.</a>
     <a href="#inventory">Inventory</a>
     <a href="#testimonials">Testimonials</a>
     <a href="#contact">Contact</a>
